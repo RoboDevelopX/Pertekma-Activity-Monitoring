@@ -1,6 +1,3 @@
-# This Project extend the SB Admin 2 Bootstrap (2019)
-
-
 ## Introduction
 ### 1.1 Background
 The Persatuan Teknologi Maklumat or better known as PERTEKMA is an organization in Faculty of Computer Science and Technology (FCSIT), UNIMAS. PERTEKMA acts to represent students in all respects and expresses the hearts and the views of students to the Institution. PERTEKMA is responsible for helping produce excellent students in skills, sports, and so on in order to carry out any other activities as determined by the Student Affairs Unit (HEPA), faculty and lecturer’s extra request from time to time.
