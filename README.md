@@ -1,8 +1,4 @@
 # This Project extend the SB Admin 2 Bootstrap (2019)
-This Project developed on the 1st January 2019 for Persatuan Teknologi Maklumat (PERTEKMA) of University Malaysia Sarawak (UNIMAS).
-
-
-This Project being presented for Grill & Chill by MaGIC Sarawak. During this Grill or Chill Sharing Session in March 2019 by MaGIC Sarawak, my pitching was covered about the inventions and the project details of "PERTEKMA Activity Monitoring" to motivate the experts regarding the objectives and the ideas. During this session, the key points highlighted were to provide focuses, succinct, and statements of the project's value that differentiate me from others who offered or similar value. This included the specialty of the project's framework, and the ability of this project will offer to society. 
 
 
 ## Introduction
@@ -68,10 +64,6 @@ After installation, run `npm install` which will install all third party depende
 -   `gulp vendor` copies dependencies from node_modules to the vendor directory
 
 You must have npm and Gulp installed globally on your machine in order to use these features. This theme was built using node v11.6.0 and the Gulp CLI v2.0.1. If Gulp is not running properly after running `npm install`, you may need to update node and/or the Gulp CLI locally.
-
-## Bugs and Issues
-
-Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-sb-admin-2/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/sb-admin-2/).
 
 ## About
 
